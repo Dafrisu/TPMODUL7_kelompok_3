@@ -1,40 +1,33 @@
-﻿using System;
-using System.IO;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 
 namespace tpmodul7_kelompok_3
 {
     internal class DataMahasiswa_1302220105
     {
-        public class namaData
+        public class NamaData
         {
-            public string depan;
-            public string belakang;
-            
-            public namaData(string depan, string belakang)
-            {
-                this.depan = depan;
-                this.belakang = belakang;
-            }
+            public string depan { get; set; }
+            public string belakang { get; set; }
         }
+
         public class MahasiswaData
         {
-            public namaData nama;
-            public int nim;
-            public string fakultas;
+            public NamaData nama { get; set; }
+            public int nim { get; set; }
+            public string fakultas { get; set; }
 
-            public MahasiswaData(namaData nama, int nim,string fakultas)
-            {
-                this.nama = nama;
-                this.nim = nim;
-                this.fakultas = fakultas;
-            }
             public void PrintData()
             {
                 Console.WriteLine($"Nama {nama.depan} {nama.belakang} dengan nim {nim} dari fakultas {fakultas}");
             }
         }
+
         public static void ReadJSON()
         {
             string fileName = "tp7_1_1302220105.json";

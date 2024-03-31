@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             DataMahasiswa_1302220105.ReadJSON();
+            KuliahMahasiswa_1302220105.ReadJSON();
         }
     }
-}
+}   

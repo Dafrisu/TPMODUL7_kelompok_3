@@ -17,3 +17,4 @@ D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\n
 D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
 D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
 D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302220105.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_2_1302220105.json
