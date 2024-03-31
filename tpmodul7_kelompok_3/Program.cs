@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text.Json.Serialization;
 using System.Text.Json;
@@ -23,5 +23,10 @@ class Program
 
         KuliahMahasiswa course = new KuliahMahasiswa();
         course.ReadJSON();
+
+        Console.WriteLine("Bagian Mahesa - 1302220105");
+        DataMahasiswa_1302220105.ReadJSON();
+        KuliahMahasiswa_1302220105.ReadJSON();
+        Console.WriteLine(" ");
     }
 }
