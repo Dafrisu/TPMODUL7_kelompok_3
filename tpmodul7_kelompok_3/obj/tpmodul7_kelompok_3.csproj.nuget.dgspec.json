@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Telyu\\Kontruksi Perangkat Lunak\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj": {}
+    "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj": {}
   },
   "projects": {
-    "D:\\Telyu\\Kontruksi Perangkat Lunak\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj": {
+    "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Telyu\\Kontruksi Perangkat Lunak\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
+        "projectUniqueName": "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
         "projectName": "tpmodul7_kelompok_3",
-        "projectPath": "D:\\Telyu\\Kontruksi Perangkat Lunak\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
+        "projectPath": "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
         "packagesPath": "C:\\Users\\Fersya Zufar\\.nuget\\packages\\",
-        "outputPath": "D:\\Telyu\\Kontruksi Perangkat Lunak\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\obj\\",
+        "outputPath": "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fersya Zufar\\AppData\\Roaming\\NuGet\\NuGet.Config",

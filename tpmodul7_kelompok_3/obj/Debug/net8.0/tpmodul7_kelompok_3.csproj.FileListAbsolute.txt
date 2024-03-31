@@ -16,3 +16,23 @@ D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\D
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302223090.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302223090.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_2_1302223090.json

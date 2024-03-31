@@ -10,7 +10,7 @@ class Program
     {
         Console.WriteLine("Bagian Fersya - 1302223090");
         DataMahasiswa1302223090.ReadJSON();
-       // KuliahMahasiswa_1302223090.ReadJSON();
+        KuliahMahasiswa1302223090.ReadJSON();
         Console.WriteLine(" ");
     }
 }
