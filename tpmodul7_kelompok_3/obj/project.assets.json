@@ -128,7 +128,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'expectedPackageFiles', line 9, position 0."
+=======
       "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+>>>>>>> f8aadd13c7bfe607e544f179cf30f981ee9a58cb
     }
   ]
 }

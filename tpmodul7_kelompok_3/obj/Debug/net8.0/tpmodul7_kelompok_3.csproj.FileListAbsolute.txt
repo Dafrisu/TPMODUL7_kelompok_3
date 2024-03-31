@@ -96,6 +96,27 @@ C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISU
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+<<<<<<< HEAD
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
+E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master

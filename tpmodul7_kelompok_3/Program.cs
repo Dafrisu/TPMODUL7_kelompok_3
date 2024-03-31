@@ -3,15 +3,21 @@ using System.IO;
 using System.Text.Json.Serialization;
 using System.Text.Json;
 using tpmodul7_kelompok_3;
-using Newtonsoft.Json;
 
 class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Bagian Raphael");
+        DataMahasiswa_1302220140 mhs3 = new DataMahasiswa_1302220140();
+        KuliahMahasiswa_1302220140 course3 = new KuliahMahasiswa_1302220140();
+        mhs3.ReadJSON();
+        course3.ReadJSON();
+        Console.WriteLine(" ");
+
+
         Console.WriteLine("Bagian Darryl");
         DataMahasiswa_1302223154 mhs = new DataMahasiswa_1302223154();
-
         var options = new JsonSerializerOptions
         {
             IncludeFields = true,
@@ -54,5 +60,6 @@ class Program
         KuliahMahasiswa_1302220150 kuliahHaikal = new KuliahMahasiswa_1302220150();
         mhsHaikal.ReadJson();
         kuliahHaikal.ReadJSON();
+
     }
 }
