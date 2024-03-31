@@ -4,10 +4,9 @@ using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-
 namespace tpmodul7_kelompok_3
 {
-    internal class DataMahasiswa_1302223154
+    internal class DataMahasiswa_1302220150
     {
         public class DataMahasiswa
         {
@@ -17,7 +16,7 @@ namespace tpmodul7_kelompok_3
             public Nama name { get; set; }
             [JsonPropertyName("fakultas")]
             public string Fakultas { get; set; }
-            public String json = "tp7_1_1302223154";
+            public String json = "tp7_1_1302220150.json";
             public class Nama
             {
                 [JsonPropertyName("depan")]
@@ -29,7 +28,13 @@ namespace tpmodul7_kelompok_3
 
             public void ReadJSON()
             {
-                Console.WriteLine(json);
+                var options = new JsonSerializerOptions
+                {
+                    IncludeFields = true,
+                };
+                var mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(json);
+                Console.WriteLine($"Nama {mahasiswa.name.Depan} {mahasiswa.name.Belakang} dengan NIM {mahasiswa.Nim}" +
+                    $" dari Fakultas {mahasiswa.Fakultas}");
             }
         }
     }

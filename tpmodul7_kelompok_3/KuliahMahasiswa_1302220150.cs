@@ -7,16 +7,16 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace tpmodul7_kelompok_3
 {
-    internal class KuliahMahasiswa_1302223154
+    internal class KuliahMahasiswa_1302220150
     {
-        public class KuliahMahasiswa
+        public class KuliahMahasisiwa
         {
             [JsonPropertyName("courses")]
             public Courses[] matkul { get; set; }
             public string json2 = "tp7_2_1302220150.json";
             public void ReadJSON()
             {
-                KuliahMahasiswa listCourses = JsonSerializer.Deserialize<KuliahMahasiswa>(json2);
+                KuliahMahasisiwa listCourses = JsonSerializer.Deserialize<KuliahMahasisiwa>(json2);
                 Console.WriteLine("Mata Kuliah Yang Diambil: ");
                 for (int i = 0; i < 6; i++)
                 {
