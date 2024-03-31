@@ -11,4 +11,16 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
+<<<<<<< HEAD
+  <ItemGroup>
+    <None Update="tp7_1_1302220105.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="tp7_2_1302220105.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+=======
+>>>>>>> master
 </Project>

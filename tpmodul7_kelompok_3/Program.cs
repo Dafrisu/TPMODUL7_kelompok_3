@@ -1,7 +1,9 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.IO;
 using System.Text.Json.Serialization;
 using System.Text.Json;
+using tpmodul7_kelompok_3;
 
 class Program
 {
@@ -20,5 +22,10 @@ class Program
         Console.WriteLine($"Fakultas: {mahasiswa.Fakultas}");
         Console.WriteLine($"Nama {mahasiswa.name.Depan} {mahasiswa.name.Belakang} dengan NIM {mahasiswa.Nim}" +
             $" dari Fakultas {mahasiswa.Fakultas}");
+
+        Console.WriteLine("Bagian Mahesa - 1302220105");
+        DataMahasiswa_1302220105.ReadJSON();
+        KuliahMahasiswa_1302220105.ReadJSON();
+        Console.WriteLine(" ");
     }
 }
