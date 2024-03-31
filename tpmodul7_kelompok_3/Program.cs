@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿using System;
+using System;
 using System.IO;
 using System.Text.Json.Serialization;
 using System.Text.Json;

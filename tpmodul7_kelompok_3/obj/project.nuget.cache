@@ -6,16 +6,12 @@
   "expectedPackageFiles": [
     "C:\\Users\\Mahesa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-<<<<<<< HEAD
-  "logs": []
-=======
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'expectedPackageFiles', line 9, position 0."
     }
   ]
->>>>>>> master
 }
