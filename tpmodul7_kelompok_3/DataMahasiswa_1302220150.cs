@@ -25,14 +25,12 @@ public class DataMahasiswa
 
     public void ReadJSON()
     {
-       Console.WriteLine("Input Json: " +  json);
+        var options = new JsonSerializerOptions
+        {
+            IncludeFields = true,
+        };
+        var mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(json);
+        Console.WriteLine($"Nama {mahasiswa.name.Depan} {mahasiswa.name.Belakang} dengan NIM {mahasiswa.Nim}" +
+            $" dari Fakultas {mahasiswa.Fakultas}");
     }
-
-    public DataMahasiswa()
-    {
-
-    }
-
 }
-
-
