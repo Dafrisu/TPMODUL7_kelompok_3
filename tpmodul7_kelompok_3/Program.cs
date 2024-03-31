@@ -18,7 +18,6 @@ class Program
 
         Console.WriteLine("Bagian Darryl");
         DataMahasiswa_1302223154 mhs = new DataMahasiswa_1302223154();
-
         var options = new JsonSerializerOptions
         {
             IncludeFields = true,
@@ -63,6 +62,4 @@ class Program
         kuliahHaikal.ReadJSON();
 
     }
-
-
 }
