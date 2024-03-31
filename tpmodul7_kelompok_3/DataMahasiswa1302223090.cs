@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace tpmodul7_kelompok_3
 {
-    internal class DataMahasiswa_1302220105
+    internal class DataMahasiswa1302223090
     {
         public class NamaData
         {
@@ -30,7 +30,7 @@ namespace tpmodul7_kelompok_3
 
         public static void ReadJSON()
         {
-            string fileName = "tp7_1_1302220105.json";
+            string fileName = "tp7_1_1302223090.json";
             string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
             try
