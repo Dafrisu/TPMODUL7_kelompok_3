@@ -1,4 +1,24 @@
 <<<<<<< HEAD
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
+C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
+=======
+<<<<<<< HEAD
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
@@ -76,6 +96,7 @@ C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISU
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master

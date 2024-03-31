@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
+      "projectUniqueName": "D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
       "projectName": "tpmodul7_kelompok_3",
-      "projectPath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
+      "projectPath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
       "packagesPath": "C:\\Users\\Mahesa\\.nuget\\packages\\",
-      "outputPath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\",
+      "outputPath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahesa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,7 +128,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TP_KPL\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
     }
   ]
 }
