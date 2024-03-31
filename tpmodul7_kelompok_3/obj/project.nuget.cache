@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "robzhF0PlzVcdGNgiK2sL66e+nJiz7yj0ZmzFKtC+PyAWPA2zzHq3YMZFMSdqjJLn0N87ERdiwEnunqs7fYK9A==",
+  "dgSpecHash": "05xyPF6N6nyK7/hsnxkU1rJvKg7OPbrDLD7fiXjhqOzdUuQHp6OTRuMtOErve9a7dwZiJch2jj/sS/gVyl3wjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\TP_MOD_07_1302223156_DAFARAIMISUANDI\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\daffa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
