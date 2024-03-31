@@ -28,5 +28,11 @@ class Program
         DataMahasiswa_1302220105.ReadJSON();
         KuliahMahasiswa_1302220105.ReadJSON();
         Console.WriteLine(" ");
+
+        Console.WriteLine("Bagian Haikal");
+        DataMahasiswa mhsHaikal = new DataMahasiswa();
+        KuliahMahasiswa kuliah = new KuliahMahasiswa();
+        mhsHaikal.ReadJSON();
+        kuliah.ReadJSON();
     }
 }

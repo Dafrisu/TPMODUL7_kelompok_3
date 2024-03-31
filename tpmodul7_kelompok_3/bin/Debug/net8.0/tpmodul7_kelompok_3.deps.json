@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tpmodul7_kelompok_3/1.0.0": {
+        "runtime": {
+          "tpmodul7_kelompok_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpmodul7_kelompok_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v8.0",
@@ -38,4 +62,5 @@
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     }
   }
+>>>>>>> master
 }
