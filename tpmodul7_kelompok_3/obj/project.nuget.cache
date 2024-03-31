@@ -1,21 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OGgCK9AWDRCHtlR5fuu2M/wOhOaW83ty/DMKXNszJmwyTT0oKM/RMo/9yp3blp562dyFI6KiyLOpcpXpypUN0A==",
+  "dgSpecHash": "eN1Gn2E9dwzN6YWIj10kPy7rQ6N8V44jZVgIs8MHNaimuS4gnSACXqTJ/vVaFUmX9rZZcCsGVvf8N21BkyS5dw==",
   "success": true,
-  "projectFilePath": "D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
+  "projectFilePath": "D:\\Telyu\\kpl 3\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\tpmodul7_kelompok_3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mahesa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Fersya Zufar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-<<<<<<< HEAD
-      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'expectedPackageFiles', line 9, position 0."
-=======
-      "message": "Problem reading the cache file D:\\Kuliah\\SEM4\\KPL\\TP\\TEST\\TPMODUL7_kelompok_3\\tpmodul7_kelompok_3\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
->>>>>>> f8aadd13c7bfe607e544f179cf30f981ee9a58cb
-    }
-  ]
+  "logs": []
 }

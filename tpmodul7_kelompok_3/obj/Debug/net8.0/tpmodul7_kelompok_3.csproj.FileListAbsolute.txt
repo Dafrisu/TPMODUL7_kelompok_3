@@ -1,123 +1,38 @@
-<<<<<<< HEAD
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-C:\Users\ASUS\Documents\KPL\TP_MOD7_1302223154_DarrylRambi\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-=======
-<<<<<<< HEAD
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-=======
-<<<<<<< HEAD
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302223156.json
-=======
-<<<<<<< HEAD
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302220105.json
-D:\Kuliah\SEM4\KPL\TP\TP_KPL\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_2_1302220105.json
-=======
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
-<<<<<<< HEAD
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
-E:\TELKOM UNIVERSITY\TUGAS KULIAH\KONSTRUKSI PERANGKAT LUNAK (KPL)\TP_MOD_07_1302220140_Raphael Permana Barus\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
-=======
->>>>>>> master
->>>>>>> master
->>>>>>> master
->>>>>>> master
->>>>>>> master
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302223090.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_1_1302223090.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.exe
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.deps.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.runtimeconfig.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.AssemblyReference.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfoInputs.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.AssemblyInfo.cs
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.csproj.CoreCompileInputs.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.sourcelink.json
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7.E49F9098.Up2Date
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\refint\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.pdb
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\tpmodul7_kelompok_3.genruntimeconfig.cache
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\obj\Debug\net8.0\ref\tpmodul7_kelompok_3.dll
+D:\Telyu\kpl 3\TPMODUL7_kelompok_3\tpmodul7_kelompok_3\bin\Debug\net8.0\tp7_2_1302223090.json

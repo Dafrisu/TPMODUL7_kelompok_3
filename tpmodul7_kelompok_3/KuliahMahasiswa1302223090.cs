@@ -1,13 +1,10 @@
 ﻿using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace tpmodul7_kelompok_3
 {
-    internal class KuliahMahasiswa_1302220105
+    internal class KuliahMahasiswa1302223090
     {
         public class Course
         {
@@ -17,22 +14,19 @@ namespace tpmodul7_kelompok_3
 
         public class CourseData
         {
-            public List<Course> courses { get; set; }
+            public Course[] courses { get; set; }
         }
 
         public static void ReadJSON()
         {
-            string filePath = "tp7_2_1302220105.json";
+            string filePath = "tp7_2_1302223090.json";
             string jsonData = File.ReadAllText(filePath);
 
             try
             {
-                CourseData courseData = JsonConvert.DeserializeObject<CourseData>(jsonData, new JsonSerializerSettings
-                {
-                    TypeNameHandling = TypeNameHandling.Auto
-                });
+                CourseData courseData = JsonConvert.DeserializeObject<CourseData>(jsonData);
 
-                if (courseData?.courses != null && courseData.courses.Count > 0)
+                if (courseData?.courses != null && courseData.courses.Length > 0)
                 {
                     PrintCourses(courseData);
                 }
@@ -54,7 +48,7 @@ namespace tpmodul7_kelompok_3
             int i = 1;
             foreach (var course in courseData.courses)
             {
-                Console.WriteLine($"MK {i} {course.code} - {course.name}");
+                Console.WriteLine($"Mata Kuliah {i} {course.code} - {course.name}");
                 i++;
             }
         }
