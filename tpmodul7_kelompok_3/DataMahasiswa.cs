@@ -13,7 +13,7 @@ public class DataMahasiswa
     public Nama name { get; set; }
     [JsonPropertyName("fakultas")]
     public string Fakultas { get; set; }
-    public String json = System.IO.File.ReadAllText(@"C:\Users\daffa\Documents\File semester 4\TP KPL\TP_MOD_07_1302223156_DAFARAIMISUANDI\tpmodul7_kelompok_3\tpmodul7_kelompok_3\tp7_1_1302223156.json");
+    public String json = System.IO.File.ReadAllText(@"C:\Users\USER\tp7_1_1302220140.json");
     public class Nama
     {
         [JsonPropertyName("depan")]

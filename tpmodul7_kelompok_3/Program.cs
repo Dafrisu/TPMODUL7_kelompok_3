@@ -8,17 +8,12 @@ class Program
     static void Main(string[] args)
     {
         DataMahasiswa mhs = new DataMahasiswa();
+        DataMahasiswa1 course = new DataMahasiswa1();
         mhs.ReadJSON();
+        course.ReadJSON();
 
-        var options = new JsonSerializerOptions
-        {
-            IncludeFields = true,
-        };
-        var mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(mhs.json);
-        Console.WriteLine($"Nim: {mahasiswa.Nim}");
-        Console.WriteLine($"nama: {mahasiswa.name.Depan} {mahasiswa.name.Belakang}");
-        Console.WriteLine($"Fakultas: {mahasiswa.Fakultas}");
-        Console.WriteLine($"Nama {mahasiswa.name.Depan} {mahasiswa.name.Belakang} dengan NIM {mahasiswa.Nim}" +
-            $" dari Fakultas {mahasiswa.Fakultas}");
+
     }
+
+
 }
