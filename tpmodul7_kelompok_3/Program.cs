@@ -17,5 +17,8 @@ class Program
 
         var mahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(mhs.json);
         Console.WriteLine($"Nama {mahasiswa.name.Depan} {mahasiswa.name.Belakang} dengan NIM {mahasiswa.Nim}" + $" dari Fakultas {mahasiswa.Fakultas}");
+
+        KuliahMahasiswa kuliah = new KuliahMahasiswa();
+        kuliah.ReadJSON();
     }
 }
